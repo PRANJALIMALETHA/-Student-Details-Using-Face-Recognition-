@@ -15,3 +15,8 @@ Installation
 2) attendance table - http://localhost/phpmyadmin/index.php?route=/sql&db=studentdb&table=attendance&pos=0
 ## Presentation
 ## Snapshots
+![Screenshot (2264)](https://github.com/user-attachments/assets/f286effd-745f-44b0-80d8-6cd35d6d720a)
+![Screenshot (2262)](https://github.com/user-attachments/assets/74c25f0c-6f28-462d-a41f-973d2ded4981)
+![Screenshot (2260)](https://github.com/user-attachments/assets/8cc1eacd-cb1b-4f5d-ae41-e60d7e526759)
+![Screenshot (2259)](https://github.com/user-attachments/assets/1d5528ce-26b3-4b14-bcf3-8a260a0e0ed8)
+
