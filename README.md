@@ -1,4 +1,4 @@
-![Screenshot (2266)](https://github.com/user-attachments/assets/6fd0b555-1f00-47b4-9400-d3a9c97a7ec5)
+
 # Student-s-Details-Using-Face-Recognition
 
 ## Introduction
@@ -20,4 +20,6 @@ Installation
 ![Screenshot (2262)](https://github.com/user-attachments/assets/74c25f0c-6f28-462d-a41f-973d2ded4981)
 ![Screenshot (2260)](https://github.com/user-attachments/assets/8cc1eacd-cb1b-4f5d-ae41-e60d7e526759)
 ![Screenshot (2259)](https://github.com/user-attachments/assets/1d5528ce-26b3-4b14-bcf3-8a260a0e0ed8)
+![Screenshot (2266)](https://github.com/user-attachments/assets/6fd0b555-1f00-47b4-9400-d3a9c97a7ec5)![Screenshot (2266)](https://github.com/user-attachments/assets/b05e5005-bc3d-4093-bada-f96e841afa5e)
+
 
