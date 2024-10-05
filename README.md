@@ -1,3 +1,4 @@
+![Screenshot (2266)](https://github.com/user-attachments/assets/6fd0b555-1f00-47b4-9400-d3a9c97a7ec5)
 # Student-s-Details-Using-Face-Recognition
 
 ## Introduction
